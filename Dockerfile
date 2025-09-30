@@ -20,4 +20,3 @@ EXPOSE 5000
 
 # 앱 실행
 CMD ["flask", "run", "--host=0.0.0.0"]
-[출처] Flask 프로젝트 Docker로 배포|작성자 구름
